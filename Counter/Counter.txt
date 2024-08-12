@@ -1,0 +1,4 @@
+The add button will be disabled when it reaches a maximum limit(here it is 5) which stops us from adding on even after the limit has been reached.
+
+The remove button will be disabled when it reaches the least number(here it is 0) which stops us from removing on even after the limit has been reached.
+

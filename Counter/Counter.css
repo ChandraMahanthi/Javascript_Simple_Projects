@@ -1,0 +1,49 @@
+*
+{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+button
+{
+    width: 150px;
+    height: 50px;
+    font-size: larger;
+    background-color: black;
+    border: 5px solid rgb(27, 10, 84);
+}
+
+button:disabled
+{
+    display: none;
+}
+.counter1
+{
+    background-color: rgb(9, 122, 43);
+}
+.counter2
+{
+    background-color: rgb(122, 20, 9);
+}
+#result1
+{
+    font-weight:bolder ;
+    font-size: xx-large;
+    width: fit-content;
+    padding:50px;
+    margin:auto;
+    margin-top: 50px;
+    background-color: black;
+    border: 5px solid rgb(82, 3, 3);
+}
+#result2
+{
+    font-weight:bolder ;
+    font-size: xx-large;
+    width: fit-content;
+    padding:50px;
+    margin:auto;
+    margin-top: 50px;
+    background-color: black;
+    border: 5px solid rgb(9, 122, 43);
+}
